@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Collin00931
 - 👀 I’m interested in @Vedal987
-- 🌱 I’m currently learning C,C# and Python
+- 🌱 I’m currently learning C, C# and Python
 - 📫 How to reach me on X Collin00931
 - 😄 Pronouns: he
 
