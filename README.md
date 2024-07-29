@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Collin00931
 - 👀 I’m interested in @Vedal987
-- 🌱 I’m currently learning C, C# and Python
+- 🌱 I’m currently learning lua, c and c#
 - 📫 How to reach me on X Collin00931
-- 😄 Pronouns: he
+- 😄 Pronouns: he/him
 
 <!---
 Collin00931/Collin00931 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
